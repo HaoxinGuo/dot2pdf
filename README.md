@@ -1,4 +1,5 @@
 # dot2pdf
+一：利用bash进行批量文件转换
 利用git.exe批量将graphviz生成的dot/gv文件批量转换成PDF/PNG文件。
 需要安装：
 1.graphviz
@@ -9,4 +10,6 @@
 生成与原dot文件同名的文件：
 例：
 example.dot->example.pdf
+二：利用cmd批量处理文件
+利用dot2pdf.cmd进行批量处理文件
 
