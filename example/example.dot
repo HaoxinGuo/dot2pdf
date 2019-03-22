@@ -1,0 +1,20 @@
+digraph gra1{
+ Integrator->{
+"AlphaOS ";
+"BackwardEuler ";
+"CentralDifference ";
+"CollocationHS ";
+"GeneralizedAlpha ";
+"HHT";
+"Houbolt";
+"KR-AlphaExplicit";
+"Newmark";
+"ParkLMS3";
+"TRBDF";
+"Wilson Theta"
+}
+}
+
+
+
+
