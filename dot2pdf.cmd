@@ -1,4 +1,4 @@
-::name£º	dot2pdf/dot2png.cmd
+::name:	dot2pdf/dot2png.cmd
 :: Purpose: 	Batch conversion file form .dot/gv to pdf/png
 :: Author:	https://github.com/HaoxinGuo
 :: Revision: 	March 2019 - initial version
