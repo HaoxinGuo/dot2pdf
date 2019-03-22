@@ -1,0 +1,8 @@
+digraph gra2{
+ "AlphaOS "->{
+AlphaOS; 
+AlphaOS_TP;
+AlphaOSGeneralized ;
+AlphaOSGeneralized_TP
+}
+}
